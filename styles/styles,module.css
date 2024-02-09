@@ -1,0 +1,38 @@
+
+.navbar{
+    background-color: #343a40;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbarBrand{
+    color: #fff;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+.navbarNav{
+    list-style: none;
+    display: flex;
+}
+.navbarItem{
+    margin-left: 20px;
+}
+.navLink{
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+}
+.content{
+    text-align: center;
+    margin-top: 50px;
+}
+.footer{
+    background-color: #f8f8f8;
+    color: #343a40;
+    padding: 20px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
